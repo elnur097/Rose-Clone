@@ -205,12 +205,12 @@ def start(update: Update, context: CallbackContext):
                      [
                          InlineKeyboardButton(
                              text="🧾 Botla bağlı məlumat",
-                             url="https://t.me/SenanOguz")
+                             url="https://t.me/elnur13122020")
                      ],
                      [
                          InlineKeyboardButton(
                              text="🗄 Elnurla Əlaqə",
-                             url="https://t.me/e1nurmov")
+                             url="https://t.me/elnur13122020")
                      ]]))
     else:
         update.effective_message.reply_text(
